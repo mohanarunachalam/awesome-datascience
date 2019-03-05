@@ -13,6 +13,7 @@
 * [Data Sets ](#data-sets)
 * [Bloggers](#bloggers)
 * [Podcasts](#podcasts)
+* [Books](#books)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
@@ -20,8 +21,9 @@
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Data Science Competitions](#competitions)
-* [Other Awesome Lists](#other-awesome-lists)
 * [Comics](#comics)
+* [Tutorials](#tutorials)
+* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation
@@ -33,8 +35,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This website helps you to understand the exact way to study as a professional data scientist.
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
-
-This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
 
 ## Infographic
 
@@ -49,9 +49,11 @@ Preview | Description
 [<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
 [<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
+[<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
 [<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science Venn Diagram
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
+[<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/) | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
 
 ## What is Data Science?
@@ -77,11 +79,15 @@ Preview | Description
 * [MS in Computer Information Systems @ Boston University](http://cisonline.bu.edu/)
 * [MS in Business Analytics @ ASU Online](http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
 * [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
+* [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
+* [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/master/course-offerings/management-data-science.html)
+* [Master of Data Science @ Melbourne University](https://science-courses.unimelb.edu.au/study/degrees/master-of-data-science/overview#overview)
+* [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 
 ## MOOC's
 
 * [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
-* [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science/1?utm_medium=listingPage)
+* [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/datamining)
 * [Machine Learning – 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/machine-learning)
 * [CS 109 Data Science](http://cs109.github.io/2015/)
@@ -99,7 +105,8 @@ Preview | Description
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
-
+* [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
+* [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 
 ## Data Sets
 
@@ -108,7 +115,7 @@ Preview | Description
 * [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 * [United States Census Bureau](http://www.census.gov/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.io](http://enigma.io/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
+* [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 * [databib.org](http://databib.org/)
@@ -145,13 +152,18 @@ Preview | Description
 * [undata](http://data.un.org/)
 * [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
 * [The GDELT Project](http://gdeltproject.org/)
-* [Sweden, Statistics](http://www.scb.se/en_/)
+* [Sweden, Statistics](http://www.scb.se/en/)
 * [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 * [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
 * [IBM Blog abour open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 * [Open data Index](http://index.okfn.org/)
 * [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
+* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+* [GHTorrent](http://ghtorrent.org/)
+* [Microsoft Research Open Data](https://msropendata.com/)
+* [Open Government Data Platform India](https://data.gov.in/)
+* [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
 
 ## Bloggers
 
@@ -187,7 +199,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](https://practicalquant.blogspot.com/) Big data
 - [Micheal Le Gal](http://www.mickaellegal.com/) a data enthusiast who gets hooked on solving intriguing problems and crafting beautiful stories and visualizations with data. Over the past 5 years, He haas applied statistics to solve problems in government, brain sciences, and most recently, retail.
-- [Datascope Anayltics](https://datascopeanalytics.com/) data-driven consulting and design
+- [Datascope Analytics](https://datascopeanalytics.com/) data-driven consulting and design
 - [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) Yet Another Data Blog
 - [Spenczar](http://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](http://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
@@ -212,8 +224,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](http://tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
-- [Data Mania Blog](http://www.data-mania.com/blog/)
-- [The File Drawer](http://chris-said.io/) - Chris Said's science blog
+- [Data Mania Blog](http://www.data-mania.com/blog/) - [The File Drawer](http://chris-said.io/) - Chris Said's science blog
 - [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
 - [DataNews](http://datanews.tumblr.com/)
 - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
@@ -239,10 +250,11 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Colah's Blog](http://colah.github.io) - Blog for understanding Neural Networks!
 - [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
+- [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes 
 
 ## Podcasts
 
-- [Adversarial Learning](https://adversariallearning.com/)
+- [Adversarial Learning](http://adversariallearning.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
 - [Data Skeptic](https://dataskeptic.com/)
@@ -253,6 +265,23 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+
+## Books
+
+- [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
+- [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
+- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
+- [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
+
 
 ## Facebook Accounts
 
@@ -303,7 +332,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
 - [Greg Reda](https://twitter.com/gjreda) Working @ _GrubHub_ about data and pandas
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
-- [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
 - [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
 - [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
 - [Jeff Hammerbacher](https://twitter.com/hackingdata) ReTweeting about data science
@@ -317,7 +345,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
-- [Machine Learning](https://twitter.com/ML_toparticles) - Live Content Curated by top 1K Machine Learning Experts
 - [Mark Stevenson](https://twitter.com/Agent_Analytics) - Data Analytics Recruitment Specialist at Salt (@SaltJobs) | Analytics - Insight - Big Data - Datascience
 - [Matt Harrison](https://twitter.com/__mharrison__) - Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening.
 - [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
@@ -359,9 +386,13 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
+ - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 
 ## Toolboxes - Environment
 
+ * [neptune.ml](https://neptune.ml) -> Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.
+ * [steppy](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.
+* [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -> Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.
  * [Datalab from Google](https://cloud.google.com/datalab/docs/) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
  * [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
@@ -373,7 +404,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
- * [Sense Data Science Development Paltform](https://sense.io/) A New Cloud Platform for Data Science and Big Data Analytics
+ * [Sense Data Science Development Platform](https://sense.io/) A New Cloud Platform for Data Science and Big Data Analytics
 Collaborate on, scale, and deploy data analysis and advanced analytics projects radically faster. Use the most powerful tools — R, Python, JavaScript, Redshift, Hive, Impala, Hadoop, and more — supercharged and integrated in the cloud.
  * [Datadog](https://www.datadoghq.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
@@ -399,7 +430,14 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
  * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
 interactive data analytics and collaborative documents with SQL, Scala and more
- 
+* [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
+* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
+* [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
+* [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files.
+* [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.
+* [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
+
 ## Visualization Tools - Environments
  
  * [addepar](http://opensource.addepar.com/ember-charts/#/overview)
@@ -434,10 +472,11 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [Timeline](http://timeline.knightlab.com/)
  * [variancecharts](http://variancecharts.com/index.html)
  * [vida](https://vida.io/)
- * [Wolframalpha](http://www.wolframalpha.com/)
  * [Wrangler](http://vis.stanford.edu/wrangler/)
  * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
  * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
+ * [Redash](https://redash.io/)
+ * [C3](https://c3js.org/) - D3-based reusable chart library
 
 
 ## Journals, Publications and Magazines
@@ -471,13 +510,17 @@ interactive data analytics and collaborative documents with SQL, Scala and more
   Some data mining competition platforms
 * [Kaggle](https://www.kaggle.com/)
 * [DrivenData](https://www.drivendata.org/)
-* [Analytics Vidhya](https://www.analyticsvidhya.com/blog/tag/data-science-competitions/)
+* [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
 * [The Data Science Game](http://www.datasciencegame.com/)
 * [InnoCentive](https://www.innocentive.com/)
 * [TuneedIT](http://tunedit.org/challenges)
 
 ## Comics
-* [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
+![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
+
+## Tutorials
+
+* [Data science your way](https://github.com/jadianes/data-science-your-way)
 
 ## Other Awesome Lists
 
@@ -492,4 +535,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
  - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
+ - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
+ - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+ - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+ - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
